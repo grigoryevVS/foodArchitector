@@ -2,62 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b6349db-a8fd-4505-ade4-0833d9376128" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documentation/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/favicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/DocViewerPlugin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/controllers.Application" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/controllers.PlayDocumentation" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/controllers.ProjectDocumentation" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/helpers.CheatSheetHelper" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/helpers.CheatSheetHelper$1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/helpers.CheatSheetHelper$2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/helpers.CheatSheetHelper$3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/helpers.CheatSheetHelper$4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/helpers.LangMenuHelper" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/helpers.LangMenuHelper$1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/helpers.LangMenuHelper$LangMenu" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/classes/DocViewerPlugin.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/classes/controllers/Application.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/classes/controllers/PlayDocumentation.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/classes/controllers/ProjectDocumentation.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/classes/helpers/CheatSheetHelper$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/classes/helpers/CheatSheetHelper$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/classes/helpers/CheatSheetHelper$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/classes/helpers/CheatSheetHelper$4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/classes/helpers/CheatSheetHelper.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/classes/helpers/LangMenuHelper$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/classes/helpers/LangMenuHelper$LangMenu.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/classes/helpers/LangMenuHelper.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/Application.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/Application/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/Application/sayHello.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/errors/404.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/errors/500.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/main.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf/application.conf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf/dependencies.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf/messages" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf/routes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documentation/files/manual.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documentation/files/wiki.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documentation/template.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documentation/welcome.textile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foodArchitector.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foodArchitector.ipr" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foodArchitector.iws" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/jquery-1.6.4.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stylesheets/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/Application.test.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/ApplicationTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/BasicTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/data.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_Application_index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_Application_sayHello.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_errors_404.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_errors_500.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_main.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/_play__framework_templates_tags_404.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/_play__framework_templates_tags_500.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pom.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/foodArchitector.iws" afterPath="$PROJECT_DIR$/foodArchitector.iws" />
     </list>
     <ignored path="foodArchitector.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -90,11 +36,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="routes" pinned="false" current-in-tab="true">
+      <file leaf-file-name="routes" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/conf/routes">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.25024533">
+            <state vertical-scroll-proportion="0.0">
               <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="foodArchitector.iws" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/foodArchitector.iws">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.45333335">
+              <caret line="756" column="14" selection-start-line="756" selection-start-column="14" selection-end-line="756" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -136,6 +102,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="REBASE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
@@ -150,6 +117,7 @@
         <option value="$PROJECT_DIR$/app/controllers/Application.java" />
         <option value="$PROJECT_DIR$/app/views/Application/sayHello.html" />
         <option value="$PROJECT_DIR$/app/views/Application/index.html" />
+        <option value="$PROJECT_DIR$/foodArchitector.iws" />
       </list>
     </option>
   </component>
@@ -800,12 +768,19 @@
       <created>1455017310962</created>
       <option name="number" value="Default" />
       <updated>1455017310962</updated>
-      <workItem from="1455017312092" duration="4407000" />
+      <workItem from="1455017312092" duration="4691000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1455113909592</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1455113909592</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4407000" />
+    <option name="totallyTimeSpent" value="4691000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
@@ -813,10 +788,11 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32950193" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32950193" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -847,6 +823,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -856,14 +836,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/foodArchitector.iws">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.379311">
-          <caret line="367" column="25" selection-start-line="367" selection-start-column="23" selection-end-line="367" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/foodArchitector.ipr">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -928,8 +900,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/conf/routes">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25024533">
+        <state vertical-scroll-proportion="0.0">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foodArchitector.iws">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45333335">
+          <caret line="756" column="14" selection-start-line="756" selection-start-column="14" selection-end-line="756" selection-end-column="14" />
           <folding />
         </state>
       </provider>
